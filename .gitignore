@@ -20,6 +20,7 @@ obj/
 *.exe
 *.out
 *.app
+exercicios/**/atv[0-9]*
 
 # Arquivos compilados
 *.o
